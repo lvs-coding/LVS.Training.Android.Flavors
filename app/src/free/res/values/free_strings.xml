@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flavor_name">Free flavor</string>
+    <string mame="free_unique">Just for free flavor</string>
+</resources>

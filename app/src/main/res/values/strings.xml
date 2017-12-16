@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multiple flavors</string>
+    <string name="flavor_name">Default flavor</string>
+</resources>
